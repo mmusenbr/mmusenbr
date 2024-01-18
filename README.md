@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/mmusenbr/mmusenbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmusenbr&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</a>
+<a href="https://github.com/mmusenbr/mmusenbr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmusenbr&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="mmusenbr's Github Stats" />
+</a>
+
+<hr>
+
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=mmusenbr.mmusenbr" alt="visitor badge" /></p>
